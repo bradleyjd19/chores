@@ -14,13 +14,16 @@ Chorz is a full-stack application, designed to be a clean, simple, and mobile so
 **NOTE -- BEST VIEWED FROM MOBILE PERSPECTIVE!**
 - While the app is responsive overall, the layout was designed with the younger user's typical devices in mind
 
+You can find the app at:
+  https://chorzapp.herokuapp.com/
+
 From the login page, use one of the following:
   1. User
      - Email: guest@chorz.com
      - Pass: guest
   2. Admin
      - Email: admin@chorz.com
-     - Pass: admin
+     - Pass: admin     
 
 User Dashboard
   - Users can see their picture, current balance, and currently assigned chores.
